@@ -1,2 +1,37 @@
-# PracticasEspeciales
-Repositorio de prácticas especiales de Labo 4 y 5
+# Prácticas Especiales — Laboratorio 4
+
+Informes de prácticas especiales de Laboratorio 4 (Departamento de Física, FCEyN, UBA).
+
+- **Band gap**: [1c2022](L4%20Band%20gap%201c2022.pdf), [2c2024](L4%20Band%20gap%202c2024.pdf)
+- **Boltzmann**: [1c2026](L4%20Boltzmann%201c2026.pdf)
+- **Calorimetría**: [2c2022](L4%20Calorimetr%C3%ADa%202c2022.pdf)
+- **Cámara de niebla**: [1c2022](L4%20c%C3%A1mara%20de%20niebla%201c2022.pdf)
+- **Caos Chua**: [2c2025](L4%20Caos%20Chua%202c2025.pdf)
+- **Caos gotas**: [1c2025](L4%20Caos%20gotas%201c2025.pdf)
+- **Caos RL diodo**: [1c2022](L4%20Caos%20RL%20diodo%201c2022.pdf), [2c2025](L4%20Caos%20RL%20diodo%202c2025.pdf)
+- **Cavendish**: [1c2026](L4%20Cavendish%201c2026.pdf)
+- **Ciclos termodinámicos**: [2c2022](L4%20Ciclos%20termodin%C3%A1micos%202c2022.pdf), [2c2024](L4%20Ciclos%20termodin%C3%A1micos%202c2024.pdf)
+- **Conductancia nanocontactos**: [2c2025](L4%20Conductancia%20nanocontactos%202c2025.pdf)
+- **Debye**: [2c2017](L4%20Debye%202c2017.pdf), [2c2022](L4%20Debye%202c2022.pdf)
+- **Difusión líquidos**: [2c2017](L4%20Difusi%C3%B3n%20l%C3%ADquidos%202c2017.pdf), [2c2025](L4%20Difusi%C3%B3n%20l%C3%ADquidos%202c2025.pdf)
+- **Doppler sonido**: [1c2026](L4%20Doppler%20sonido%201c2026.pdf)
+- **Emisión filamento W**: [2c2017](L4%20Emisi%C3%B3n%20filamento%20W%202c2017.pdf), [2c2024](L4%20Emisi%C3%B3n%20filamento%20W%202c2024.pdf)
+- **Ferro++**: [1c2026](L4%20Ferro%2B%2B%201c2026.pdf)
+- **Flujo líquido obstáculos**: [2c2025](L4%20Flujo%20l%C3%ADquido%20obst%C3%A1culos%202c2025.pdf)
+- **LEDs temperatura**: [1c2025](L4%20LEDs%20temperatura%201c2025.pdf)
+- **Leidenfrost gotas**: [2c2017](L4%20Leidenfrost%20gotas%202c2017.pdf)
+- **Levitación magnética**: [1c2025](L4%20Levitaci%C3%B3n%20magn%C3%A9tica%201c2025.pdf), [2c2025](L4%20Levitaci%C3%B3n%20magn%C3%A9tica%202c2025.pdf)
+- **Michelson dilatación**: [1c2022](L4%20Michelson%20dilataci%C3%B3n%201c2022.pdf)
+- **Millikan**: [2c2018](L4%20Millikan%202c2018.pdf)
+- **Péndulo caótico**: [2c2018](L4%20P%C3%A9ndulo%20ca%C3%B3tico%202c2018.pdf), [2c2025](L4%20P%C3%A9ndulo%20ca%C3%B3tico%202c2025.pdf), [1c2026](L4%20P%C3%A9ndulo%20ca%C3%B3tico%201c2026.pdf)
+- **Piezoeléctrico temperatura**: [1c2025](L4%20Piezoel%C3%A9ctrico%20temperatura%201c2025.pdf)
+- **Resistividad AC temperatura**: [1c2022](L4%20Resistividad%20AC%20temperatura%201c2022.pdf)
+- **Ruido Johnson**: [1c2025](L4%20Ruido%20Johnson%201c2025.pdf)
+- **Sobreenfriamiento**: [2c2022](L4%20Sobreenfriamiento%202c2022.pdf), [1c2025](L4%20Sobreenfriamiento%201c2025.pdf)
+- **Taylor-Couette**: [2c2022](L4%20Taylor-Couette%202c2022.pdf)
+- **Thomson relación carga masa**: [2c2017](L4%20Thomson%20relaci%C3%B3n%20carga%20masa%202c2017.pdf), [2c2018](L4%20Thomson%20relaci%C3%B3n%20carga%20masa%202c2018.pdf), [1c2022](L4%20Thomson%20relaci%C3%B3n%20carga%20masa%201c2022.pdf), [1c2026](L4%20Thomson%20relaci%C3%B3n%20carga%20masa%201c2026.pdf)
+- **Trampa polen**: [1c2026](L4%20Trampa%20polen%201c2026.pdf)
+- **Velocidad de la luz**: [2c2024](L4%20Velocidad%20de%20la%20luz%202c2024.pdf), [1c2025](L4%20Velocidad%20de%20la%20luz%201c2025.pdf), [2c2025](L4%20Velocidad%20de%20la%20luz%202c2025.pdf)
+- **Verdet**: [1c2022](L4%20Verdet%201c2022.pdf), [2c2022](L4%20Verdet%202c2022.pdf)
+- **Young forzado**: [2c2017](L4%20Young%20forzado%202c2017.pdf), [2c2022](L4%20Young%20forzado%202c2022.pdf), [1c2025](L4%20Young%20forzado%201c2025.pdf), [1c2026](L4%20Young%20forzado%201c2026.pdf)
+
